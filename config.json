@@ -84,6 +84,81 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+	"hongniuzy": {
+	  "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+	  "name": "红牛资源",
+	  "detail": "https://www.hongniuzy2.com"
+	} ,
+    "AV5": {
+      "api": "https://91md.me/api.php/provide/vod/",
+      "name": "AV-91麻豆",
+      "detail": "https://91md.me"
+    },
+      "AV6": {
+      "api": "http://lbapiby.com/api.php/provide/vod/at/json",
+      "name": "AV-AIvin",
+      "detail": "http://lbapiby.com"
+    },
+	"AV8": {
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "AV-番号资源",
+      "detail": "http://fhapi9.com/"
+    },
+	"AV11": {
+      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "name": "AV-奶香香",
+      "detail": "https://Naixxzy.com"
+    },
+	"AV12": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "AV-森林资源",
+      "detail": "https://slapibf.com"
+    },
+	"AV13": {
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "name": "AV-鲨鱼资源",
+      "detail": "https://shayuapi.com"
+    },
+	"AV17": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "AV-玉兔资源",
+      "detail": "https://apiyutu.com"
+    },
+      "AV19": {
+      "api": "https://www.pgxdy.com/api/json.php",
+      "name": "AV-AV资源",
+      "detail": "https://www.pgxdy.com"
+    },
+      "AV20": {
+      "api": "https://www.gdlsp.com/api/json.php",
+      "name": "AV-香奶儿资源",
+      "detail": "https://www.gdlsp.com"
+    },
+	"AV21": {
+      "api": "https://www.kxgav.com/api/json.php",
+      "name": "AV-白嫖资源",
+      "detail": "https://www.kxgav.com"
+    },
+	"AV23": {
+    "api": "https://www.xrbsp.com/api/json.php",
+    "name": "AV-淫水资源",
+    "detail": "https://www.xrbsp.com"
+    },
+    "AV24": {
+    "api": "https://www.msnii.com/api/json.php",
+    "name": "AV-美少女资源",
+    "detail": "https://www.msnii.com"
+	},
+    "AV25": {
+    "api": "https://lbapi9.com/api.php/provide/vod/at/json",
+    "name": "AV-乐播资源",
+    "detail": "https://lbapi9.com"
+	},
+     "AV1": {
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod",
+      "name": "AV-草榴资源",
+      "detail": "https://www.caoliuzyw.com"
     }
   }
 }
