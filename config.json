@@ -1,5 +1,6 @@
 {
   "cache_time": 7200,
+  "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
@@ -450,4 +451,5 @@
       "name": "AV-草榴资源",
       "detail": "https://www.caoliuzyw.com"
     }
+  }
   }
